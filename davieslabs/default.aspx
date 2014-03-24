@@ -1,12 +1,10 @@
-<!DOCTYPE HTML>
-<!--
-	Miniport 2.5 by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
-	<head>
-		<title>Miniport by HTML5 UP</title>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="davieslabs._default" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Miniport by HTML5 UP</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -22,10 +20,10 @@
 		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
 		<!--[if lte IE 7]><link rel="stylesheet" href="css/ie7.css" /><![endif]-->
-	</head>
-	<body>
-
-		<!-- Nav -->
+</head>
+<body>
+    <form id="form1" runat="server">
+    <!-- Nav -->
 			<nav id="nav">
 				<ul class="container">
 					<li><a href="#top">Top</a></li>
@@ -235,7 +233,6 @@
 					</footer>
 				</article>
 			</div>
-
-
-	</body>
+    </form>
+</body>
 </html>
