@@ -64,6 +64,11 @@
     <Content Include="css\images\ie9\button-alt.svg" />
     <Content Include="css\images\ie9\button.svg" />
     <Content Include="css\images\ie9\social-li.svg" />
+    <Content Include="css\skel-noscript.css" />
+    <Content Include="css\style-1000px.css" />
+    <Content Include="css\style-desktop.css" />
+    <Content Include="css\style-mobile.css" />
+    <Content Include="css\style.css" />
     <Content Include="default.aspx" />
     <Content Include="images\me.jpg" />
     <Content Include="images\portfolio01.jpg" />
@@ -93,6 +98,7 @@
     <Content Include="css\font\fontawesome-webfont.ttf" />
     <Content Include="css\font\fontawesome-webfont.woff" />
     <Content Include="css\font\FontAwesome.otf" />
+    <None Include="Properties\PublishProfiles\davieslabs.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
