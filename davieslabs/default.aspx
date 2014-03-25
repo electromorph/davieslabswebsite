@@ -42,10 +42,10 @@
 						</div>
 						<div class="8u">
 							<header>
-								<h1>Hi. I'm <strong>Jane Doe</strong>.</h1>
+								<h1>Welcome to <strong>Davies Labs</strong>.</h1>
 							</header>
-							<p>And this is <strong>Miniport</strong>, a free, fully responsive HTML5 site template designed by <a href="http://n33.co/">AJ</a> for <a href="http://html5up.net/">HTML5 UP</a> &amp; released under the <a href="http://html5up.net/license/">CCA license</a>.</p>
-							<a href="#work" class="button button-big">Learn about what I do</a>
+							<p>Davies labs is a testbed for <strong>ideas</strong>, and where I post info about progress of the various projects I have underway.</p>
+							<a href="#work" class="button button-big">See the projects</a>
 						</div>
 					</div>
 				</article>
@@ -55,16 +55,16 @@
 			<div class="wrapper wrapper-style2">
 				<article id="work">
 					<header>
-						<h2>I design and build amazing things.</h2>
-						<span>Odio turpis amet sed consequat eget posuere consequat.</span>
+						<h2>I like to design and build things that do things.</h2>
+						<span>I hope one or more of these prove useful, though projects get dropped if I think they will not be useful, or if the will never be finished.</span>
 					</header>
 					<div class="container">
 						<div class="row">
 							<div class="4u">
 								<section class="box box-style1">
 									<span class="fa featured fa-comments-o"></span>
-									<h3>Consequat lorem</h3>
-									<p>Ornare nulla proin odio consequat sapien vestibulum ipsum primis sed amet consequat lorem dolore.</p>
+									<h3>PCB machine</h3>
+									<p>it'd be nice to print PCBs.  Lots of people have tried this, and people still are.  Despite promising designs, none is yet 2-sided.  None makes standard PCBs.  And none has lasted.  Will this?</p>
 								</section>
 							</div>
 							<div class="4u">
