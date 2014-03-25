@@ -23,7 +23,7 @@
         <exec program="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\msbuild.exe" workingdir="..\..\src\website">
             <arg value="davieslabs.sln" />
             <arg value="/t:Rebuild" />
-            <arg value="/p:Configuration=UAT" />
+            <arg value="/p:Configuration=Release" />
             <arg value="/clp:ErrorsOnly" />
         </exec>
         <echo>Attempting to transform web.config</echo>
